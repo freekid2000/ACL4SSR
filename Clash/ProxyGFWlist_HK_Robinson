@@ -1,0 +1,8 @@
+# 特殊代理列表
+# 用于指定自己需要使用不同的代理规则
+
+# MyList && Other
+
+# 观看香港媒体
+DOMAIN-KEYWORD,hoy.tv
+DOMAIN-KEYWORD,rthktv
